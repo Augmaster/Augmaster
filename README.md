@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Augustin
+- 👀 I’m interested in developing new solution for any problems using code
+- 🌱 I’m currently learning Java/Node.JS
+- 💞️ I’m looking to collaborate on Python project for now
+- 📫 How to reach me: augustin.renard@hec.ca or by my Linkedin : https://www.linkedin.com/in/augustin-renard-986855179/
