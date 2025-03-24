@@ -1,119 +1,99 @@
+Here's your complete `README.md` in markdown format, ready for copy-paste into your project:
 
-<h1 align="center"><b>Hi , I'm Augustin Renard </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+```markdown
+# 👋 Hi, I'm Augustin Renard!
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Data-Scientist,;Information+And+Technology+Student,;AWS+Cloud+Practionner,;Junior+Machine+Learning+Engineer,;Active+Learner,;Love+to+learn+new+stuffs.."></a>
-</p>
+**Cybersecurity Specialist | Full Stack Developer | Data Scientist**
 
+---
 
-<br>
+📧 [augustin.renard77@gmail.com](mailto:augustin.renard77@gmail.com) | 📞 +44 7562265241  
+🔗 [LinkedIn](https://linkedin.com/in/augustin-renard-986855179) | 🌐 [Portfolio](https://augmaster.github.io)
 
+---
 
+## 🚀 About Me
+I'm a cybersecurity specialist and software developer passionate about creating secure and efficient digital solutions. My experience spans penetration testing, web and network security, malware analysis, full-stack development, and data science. I excel at problem-solving, optimizing complex processes, and working collaboratively in dynamic environments.
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+---
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## 🛠️ Technical Skills
 
-<br>
+**💻 Pentesting & Exploitation:**
+- Nmap | Metasploit | Burp Suite | SQLMap
+- Privilege Escalation | Authentication Bypass
 
-- A passionate Self-taught Front and Back End developer
-- Learning during my spare time
-- Currently learning Machine Learning and Data Science by Self (Youtube, Udacity, Udemy, FreeCodeCamp)
-- Personal website [link](https://augmaster.github.io/)
-- I’m currently open for an Intern or a new job opportunity in data science
+**🌐 Web & Application Security:**
+- OWASP Top 10 | API Security
+- SQL Injection (SQLi) | Cross-Site Scripting (XSS)
+- Session Management Flaws
 
-<br><br>
+**🔒 Network & OS Security:**
+- Tcpdump | Wireshark
+- Active Directory Attacks (Kerberoasting, Pass-the-Hash)
+- Windows/Linux Internals
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+**🐞 Malware & Reverse Engineering:**
+- Static & Dynamic Analysis | Anti-reversing techniques
+- Binary Unpacking | x86 Assembly
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+**⚙️ Programming & DevOps:**
+- Python | SQL | Docker | Git
+- Flask APIs | Airflow (ETL pipelines)
 
-<p align="center">
+**☁️ Forensics & Cloud:**
+- Autopsy | Redline
+- Amazon Web Services (AWS) | Google Cloud Platform (GCP)
 
-- **Languages**:
-	
-	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%white)
-	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+**✨ Soft Skills:**
+- Analytical Thinking | Debugging | Optimization
+- Effective Communication | Team Collaboration | Continuous Learning
 
-<br>
-	
-- **Data Science Development**:
+---
 
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![Parameter Optimisation](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
-	
-<br>
-    
-- **Front-End Development**:
-	
-	![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-	![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-	![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-	![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-<br>
+## 🎓 Education
 
-- **Back-End Development**:
+**Master of Science in Applied Cyber Security**  
+*Heriot-Watt University, Edinburgh (2024 - 2025)*  
+- Thesis: *"From Data to Justice: Enhancing Forensic Tool Reliability Through Standardized Testing"*  
+- Courses: Intelligent Robotics, Advanced Network Security, Digital Forensics, Software Engineering, Databases
 
-	![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-	![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-	![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-	![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-	![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-	![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=white)
-	
-<br>
+**Bachelor of Business Administration in Information Technology**  
+*HEC Montreal, Canada (2018 - 2022)*  
+- Courses: Cybersecurity, Database Management, Business Application Development, Data Warehousing
 
-- **Softwares and Tools**:
+---
 
-	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 💼 Professional Experience
 
-<br>
+### Data Scientist | Bell Canada, Montreal (May 2023 - July 2024)
+- Developed Flask APIs integrating Large Language Models (LLM) with internal systems.
+- Improved data extraction and preprocessing performance using GCP VortexAI.
+- Optimized ETL processes with Airflow, significantly reducing data processing time.
 
-- **Extras**:
+### Full Stack Developer | Services iNSiTU Inc., Montreal (May 2022 - May 2023)
+- Built efficient APIs with Python to enhance application performance.
+- Secured applications using AWS Cognito.
+- Containerized applications with Docker for streamlined deployment and scalability.
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+---
 
+## 🥇 Certifications & Projects
 
-</p>
+### Jr Penetration Tester | TryHackMe
+- Completed 110+ labs across Web, Network, Active Directory (AD), and Malware analysis.
+- Mastered practical skills: SQLi, XSS, Kerberoasting, Pass-the-Hash, Linux root exploits, and malware reversing.
 
-<br>
-<br>
+### MSc Thesis: From Data to Justice
+- Designed standardized synthetic datasets simulating real-world forensic scenarios.
+- Conducted reliability testing of digital forensic tools across diverse file systems (APFS, EXT4, NTFS).
 
+---
 
------
+## 🔗 Connect With Me
+- [Email](mailto:augustin.renard77@gmail.com)
+- [LinkedIn](https://linkedin.com/in/augustin-renard-986855179)
+- [Portfolio](https://augmaster.github.io)
 
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/augustin-renard-986855179/?locale=en_US)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Augustin Renard-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-
-
-<br>
-<br>
-	
-
-
-<div align='center'>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
+**Feel free to reach out! I'm always eager to collaborate on exciting cybersecurity and software projects.**
+```
