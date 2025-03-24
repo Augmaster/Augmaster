@@ -4,7 +4,6 @@
 
 ---
 
-📧 [augustin.renard77@gmail.com](mailto:augustin.renard77@gmail.com) | 📞 +44 7562265241  
 🔗 [LinkedIn](https://linkedin.com/in/augustin-renard-986855179) | 🌐 [Portfolio](https://augmaster.github.io)
 
 ---
