@@ -1,6 +1,3 @@
-Here's your complete `README.md` in markdown format, ready for copy-paste into your project:
-
-```markdown
 # 👋 Hi, I'm Augustin Renard!
 
 **Cybersecurity Specialist | Full Stack Developer | Data Scientist**
@@ -96,4 +93,3 @@ I'm a cybersecurity specialist and software developer passionate about creating 
 - [Portfolio](https://augmaster.github.io)
 
 **Feel free to reach out! I'm always eager to collaborate on exciting cybersecurity and software projects.**
-```
