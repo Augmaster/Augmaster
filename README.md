@@ -1,94 +1,109 @@
-# 👋 Hi, I'm Augustin Renard!
+```
+  ┌────────────────────────────────────────────────────────┐
+  │                                                        │
+  │   ╔═╗┬ ┬┌─┐┬ ┬┌─┐┌┬┐┬┌┐┌  ╦═╗┌─┐┌┐┌┌─┐┬─┐┌┬┐       │
+  │   ╠═╣│ ││ ┬│ │└─┐ │ ││││  ╠╦╝├┤ │││├─┤├┬┘ ││        │
+  │   ╩ ╩└─┘└─┘└─┘└─┘ ┴ ┴┘└┘  ╩╚═└─┘┘└┘┴ ┴┴└──┴┘       │
+  │                                                        │
+  │   root@kali:~$ whoami                                  │
+  │   > offensive security consultant                      │
+  │                                                        │
+  └────────────────────────────────────────────────────────┘
+```
 
-**Cybersecurity Specialist | Full Stack Developer | Data Scientist**
+### `> cat /etc/about.conf`
 
----
+Offensive Security Consultant @ **CSA Cyber** — breaking things so you can build them stronger.
 
-🔗 [LinkedIn](https://linkedin.com/in/augustin-renard-986855179) | 🌐 [Portfolio](https://augmaster.github.io)
+I specialize in web application testing, API security assessments, external penetration testing, and vulnerability management. Background in full-stack development and data engineering gives me a developer's perspective on where code breaks.
 
----
+&nbsp;
 
-## 🚀 About Me
-I'm a cybersecurity specialist and software developer passionate about creating secure and efficient digital solutions. My experience spans penetration testing, web and network security, malware analysis, full-stack development, and data science. I excel at problem-solving, optimizing complex processes, and working collaboratively in dynamic environments.
-
----
-
-## 🛠️ Technical Skills
-
-**💻 Pentesting & Exploitation:**
-- Nmap | Metasploit | Burp Suite | SQLMap
-- Privilege Escalation | Authentication Bypass
-
-**🌐 Web & Application Security:**
-- OWASP Top 10 | API Security
-- SQL Injection (SQLi) | Cross-Site Scripting (XSS)
-- Session Management Flaws
-
-**🔒 Network & OS Security:**
-- Tcpdump | Wireshark
-- Active Directory Attacks (Kerberoasting, Pass-the-Hash)
-- Windows/Linux Internals
-
-**🐞 Malware & Reverse Engineering:**
-- Static & Dynamic Analysis | Anti-reversing techniques
-- Binary Unpacking | x86 Assembly
-
-**⚙️ Programming & DevOps:**
-- Python | SQL | Docker | Git
-- Flask APIs | Airflow (ETL pipelines)
-
-**☁️ Forensics & Cloud:**
-- Autopsy | Redline
-- Amazon Web Services (AWS) | Google Cloud Platform (GCP)
-
-**✨ Soft Skills:**
-- Analytical Thinking | Debugging | Optimization
-- Effective Communication | Team Collaboration | Continuous Learning
+`[ LinkedIn ]` → [augustin-renard](https://linkedin.com/in/augustin-renard-986855179) &nbsp;&nbsp; `[ Email ]` → [augustin.renard77@gmail.com](mailto:augustin.renard77@gmail.com)
 
 ---
 
-## 🎓 Education
+### `> ls ./offensive-toolkit/`
 
-**Master of Science in Applied Cyber Security**  
-*Heriot-Watt University, Edinburgh (2024 - 2025)*  
-- Thesis: *"From Data to Justice: Enhancing Forensic Tool Reliability Through Standardized Testing"*  
-- Courses: Intelligent Robotics, Advanced Network Security, Digital Forensics, Software Engineering, Databases
+```
+pentesting/
+├── recon .............. Nmap · OSINT · subdomain enumeration
+├── exploitation ....... Metasploit · SQLMap · Burp Suite Pro · Nuclei
+├── web-attacks ........ SQLi · XSS · SSRF · IDOR · auth bypass · OWASP Top 10
+├── api-testing ........ REST/GraphQL fuzzing · broken access control · rate limiting
+├── network ............ external infrastructure testing · service enumeration
+├── ad-attacks ......... Kerberoasting · Pass-the-Hash · privilege escalation
+├── malware ............ static & dynamic analysis · unpacking · x86 assembly
+└── forensics .......... Autopsy · Redline · disk & memory analysis
+```
 
-**Bachelor of Business Administration in Information Technology**  
-*HEC Montreal, Canada (2018 - 2022)*  
-- Courses: Cybersecurity, Database Management, Business Application Development, Data Warehousing
-
----
-
-## 💼 Professional Experience
-
-### Data Scientist | Bell Canada, Montreal (May 2023 - July 2024)
-- Developed Flask APIs integrating Large Language Models (LLM) with internal systems.
-- Improved data extraction and preprocessing performance using GCP VortexAI.
-- Optimized ETL processes with Airflow, significantly reducing data processing time.
-
-### Full Stack Developer | Services iNSiTU Inc., Montreal (May 2022 - May 2023)
-- Built efficient APIs with Python to enhance application performance.
-- Secured applications using AWS Cognito.
-- Containerized applications with Docker for streamlined deployment and scalability.
+```
+engineering/
+├── languages .......... Python · SQL · JavaScript
+├── frameworks ......... React · Flask
+├── infra .............. Docker · AWS · GCP · Git
+└── data ............... Airflow (ETL) · LLM integration
+```
 
 ---
 
-## 🥇 Certifications & Projects
+### `> cat ./projects/nuclei-viewer.md`
 
-### Jr Penetration Tester | TryHackMe
-- Completed 110+ labs across Web, Network, Active Directory (AD), and Malware analysis.
-- Mastered practical skills: SQLi, XSS, Kerberoasting, Pass-the-Hash, Linux root exploits, and malware reversing.
-
-### MSc Thesis: From Data to Justice
-- Designed standardized synthetic datasets simulating real-world forensic scenarios.
-- Conducted reliability testing of digital forensic tools across diverse file systems (APFS, EXT4, NTFS).
+**[Nuclei Viewer](https://github.com/Augmaster/Nuclei-Parser)** — A modern React dashboard for parsing, organizing, and analyzing Nuclei vulnerability scan outputs. Built for security professionals who need to triage findings and streamline reporting.
 
 ---
 
-## 🔗 Connect With Me
-- [Email](mailto:augustin.renard77@gmail.com)
-- [LinkedIn](https://linkedin.com/in/augustin-renard-986855179)
-- [Portfolio](https://augmaster.github.io)
+### `> cat ./experience.log`
 
-**Feel free to reach out! I'm always eager to collaborate on exciting cybersecurity and software projects.**
+```
+[*] Loading targets...
+
+TARGET 1 ▸ Offensive Security Consultant — CSA Cyber (Nov 2025 – Present)
+  ├── Web application & API penetration testing
+  ├── External infrastructure assessments
+  └── Vulnerability Management as a Service (VMaaS)
+
+TARGET 2 ▸ Full Stack Developer — 4-More Capital (Jul 2025 – Present)
+  └── Developing AI-powered SaaS products
+
+TARGET 3 ▸ Data Scientist — Bell Canada, Montreal (May 2023 – Jul 2024)
+  ├── Built Flask APIs integrating LLMs with internal systems
+  └── Optimized ETL pipelines with Airflow on GCP
+
+TARGET 4 ▸ Full Stack Developer — Services iNSiTU Inc., Montreal (May 2022 – May 2023)
+  ├── Developed Python APIs and secured apps with AWS Cognito
+  └── Containerized services with Docker for scalable deployment
+
+[✓] 4 targets loaded.
+```
+
+---
+
+### `> cat ./education.log`
+
+```
+[+] MSc Applied Cyber Security — Heriot-Watt University, Edinburgh (2024 – 2025) ▸ Distinction
+    Thesis: "From Data to Justice: Enhancing Forensic Tool Reliability Through Standardized Testing"
+
+[+] BBA Information Technology — HEC Montréal, Canada (2018 – 2022)
+```
+
+---
+
+### `> cat ./certs.log`
+
+```
+[✓] CWES (Certified Web Exploitation Specialist) ···· Hack The Box (formerly CBBH)
+[✓] AWS Certified Developer — Associate ············· Amazon Web Services
+[✓] Jr Penetration Tester ··························· TryHackMe (110+ labs)
+[~] CPTS (Certified Penetration Testing Specialist) · Hack The Box — in progress
+```
+
+---
+
+```
+  ┌──────────────────────────────────────────────────────────────────┐
+  │  root@kali:~$ echo "Always looking to collaborate on offensive  │
+  │  security tooling and open-source projects. Let's connect."     │
+  └──────────────────────────────────────────────────────────────────┘
+```
